@@ -61,6 +61,6 @@ CBMW bmw;
 bmw.start();
 bmw.Abs();
 bmw.stop();
-
+0
 return 0;
 }
