@@ -51,7 +51,7 @@ void start()
 cout << "bmw's start" << endl;
 CCAR::start();//scope operator
 //CCAR c;
-//c.start();
+
 }
 };
 //--------------------------
